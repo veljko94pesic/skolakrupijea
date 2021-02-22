@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{400:function(n,t,e){"use strict";e.r(t);var c=e(4),component=Object(c.a)({},(function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"container internal"},[this._v("\n  Slot\n")])}),[],!1,null,"a5db272a",null);t.default=component.exports}}]);
